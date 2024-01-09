@@ -1,0 +1,41 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* shared element */
+
+/* header related  style */
+.header {
+    /* background-image: url('../resources/Banner\ Image.png'); */
+
+    height: 600px;
+    width: 1320px;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Banner\ Image.png');
+    margin: auto;
+    margin-top: 50px;
+}
+
+.banner {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    padding-top: 177px;
+}
+
+.banner-title {
+    font-size: 32px;
+    font-weight: 400;
+
+}
+
+.banner-content {
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    margin-top: 16px;
+}
+
+
