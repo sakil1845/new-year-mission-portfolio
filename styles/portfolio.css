@@ -1,4 +1,3 @@
-
 * {
     margin: 0;
     padding: 0;
@@ -114,7 +113,7 @@
     width: 320px;
     height: 465px;
     padding-top: 80px;
-    
+
 }
 
 .btn {
@@ -126,7 +125,47 @@
     padding: 40px 20px;
     border: none;
     text-transform: uppercase;
-    margin-top: 30px;
+    margin-top: 30px;
 }
 
 
+.information {
+    width: 1320px;
+    height: 482px;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin: auto;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    /* 175% */
+}
+
+.information-content {
+    color: #F00;
+    padding-top: 100px;
+    margin-top: 120px;
+    text-transform: capitalize;
+}
+
+.information-data {
+    color: #070211;
+
+}
+
+.btn-info {
+
+    background: #F00;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    padding: 16px 32px;
+    border-radius: 8px;
+    border: none;
+    margin-top: 30px;
+    display: inline-flex;
+    text-transform: uppercase;
+
+}
