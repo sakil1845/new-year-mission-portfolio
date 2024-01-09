@@ -273,7 +273,7 @@
     font-weight: 500;
 }
 
-.hodiday {
+.holiday {
     color: #F00;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -297,7 +297,7 @@
     width: 1068px;
     margin: auto;
     margin-top: 30px;
-    padding: 0 25px;
+    
 }
 
 
@@ -314,6 +314,9 @@
     margin-right: 100px;
 }
 
+.regd-img{
+margin-right: 300px;
+}
 
 .regd-img {
     position: absolute;
@@ -333,7 +336,7 @@
 .group-img {
     position: relative;
     position: absolute;
-    margin-right: 580px;
+    margin-left: 470px;
     margin-top: 65px;
 
 }
