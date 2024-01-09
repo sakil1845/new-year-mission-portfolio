@@ -38,4 +38,40 @@
     margin-top: 16px;
 }
 
+.section {
+    background: #FFF;
+    text-align: center;
+    margin-top: 120px;
+    font-family: Inter;
+}
+
+.section-title {
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+    padding: 20px 0;
+}
+
+.section-content {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.section-description {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 16px;
+}
+
+.section-image {
+    width: 800px;
+    height: 500px;
+    margin: auto;
+    margin-top: 48px;
+}
+
+
+
 
